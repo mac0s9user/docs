@@ -31,6 +31,7 @@ You will need one MySQL database with valid user, password and hostname handy du
 #. PHP 5.6 for Windows Server `64-bit <http://windows.php.net/download#php-5.6-nts-VC11-x64>`__ | `32-bit <http://windows.php.net/download#php-5.6-nts-VC11-x86>`__
 #. MariaDB 5.5 for Windows Server `64-bit <https://downloads.mariadb.com/MariaDB/mariadb-5.5.65/winx64-packages/mariadb-5.5.65-winx64.msi>`__ | `32-bit <https://downloads.mariadb.com/MariaDB/mariadb-5.5.65/win32-packages/mariadb-5.5.65-win32.msi>`__
 #. PHP Manager for IIS (makes managing PHP on IIS much easier) `here <http://phpmanager.codeplex.com/>`_
+#. URL Rewrite for IIS (can resolve the 500.19 error in IIS) `here <https://www.iis.net/downloads/microsoft/url-rewrite/>`_
 
 Getting Started
 ---------------
